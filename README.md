@@ -1,3 +1,4 @@
 Toolbox for google tag manager event tracking
-Tools like:
+
+For now:
   - Drupal form inputs value getters
